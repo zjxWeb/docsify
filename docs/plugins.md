@@ -224,6 +224,15 @@ A docsify.js plugin for displaying tabbed content from markdown.
 
 Provided by [@jhildenbiddle](https://github.com/jhildenbiddle/docsify-tabs).
 
+## click-top
+
+When you slide the document to a certain distance, a button will appear, which can be clicked to quickly reach the top of the document.
+
+- [Documentation](https://github.com/zjxWeb/docsify-click-top)
+Provided by [@zjxWeb](https://github.com/zjxWeb/docsify-click-top).
+
+
 ## More plugins
 
 See [awesome-docsify](awesome?id=plugins)
+
